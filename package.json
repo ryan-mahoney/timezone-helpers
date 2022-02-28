@@ -1,0 +1,26 @@
+{
+  "name": "timezone-helpers",
+  "version": "1.0.0",
+  "description": "# TODO",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-mahoney/timezone-helpers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan-mahoney/timezone-helpers/issues"
+  },
+  "homepage": "https://github.com/ryan-mahoney/timezone-helpers#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.7"
+  }
+}
